@@ -2,7 +2,6 @@ package com.example.cleanarchitecturenoteapp.di
 
 import android.app.Application
 import androidx.room.Room
-import com.example.cleanarchitecturenoteapp.feature.data.datasource.NoteDao
 import com.example.cleanarchitecturenoteapp.feature.data.datasource.NoteDatabase
 import com.example.cleanarchitecturenoteapp.feature.data.repository.NoteRepositoryImpl
 import com.example.cleanarchitecturenoteapp.feature.domain.reposiotory.NoteRepository
